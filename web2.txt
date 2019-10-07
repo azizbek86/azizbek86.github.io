@@ -1,0 +1,11 @@
+<iframe src="https://www.youtube.com/embed/76zv9TDnnxw" height="70" width="100" ></iframe>
+<a href="https://www.youtube.com/watch?v=9rHfVx_9X2k"><button>robotatexnika</button></a>
+<p id="sas">Aziz</p>
+<style type="text/css">
+#sas {
+  height: 70px;
+  background-image: repeating-radial-gradient(circle, red,yellow,green,blue,aqua)
+}
+p {box-shadow:2px 2px  2px red}
+
+</style>
